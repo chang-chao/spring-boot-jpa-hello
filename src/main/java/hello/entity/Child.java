@@ -19,7 +19,7 @@ public class Child {
   private Long id;
 
   @ManyToOne
-  @JoinColumn(name = "PARENTID", nullable = false)
+  @JoinColumn(name = "parent_id", nullable = false)
   private Parent parent;
 
   private String name;

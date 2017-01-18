@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+  <parent id="1" name="papa"/>
+  <child id="1" parent_id="1" name="taro"/>
+</dataset>
